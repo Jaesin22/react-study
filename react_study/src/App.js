@@ -1,4 +1,3 @@
-import Counter from "./Counter";
 import Say from "./Say";
 import React from "react";
 
